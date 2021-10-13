@@ -88,10 +88,47 @@
         <li><a href="#">How to deploy NodeJS on DigitalOcean for production</a></li>
       </ul>
     </li>
-        <li>
+    <li>
       <a href="#getting-started">Git</a>
       <ul>
         <li><a href="#">upload to remote</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Recommended Resources</a>
+      <ul>
+        <li>Node.js Design Patterns - 3Ed.
+        <a  href="https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition">(git)</a>
+        </li>
+        <li>[MERN] Full-Stack React Projects 2Ed (20xx)
+        <a  href="https://masteringjs.io/ebooks/mastering-mongoose">(git)</a>
+        </li>
+        <li>Mastering Mongoose
+        <a  href="https://masteringjs.io/ebooks/mastering-mongoose">(git)</a>
+        </li>
+        <li>Nodejs Best practice
+        <a  href="https://github.com/goldbergyoni/nodebestpractices#5-going-to-production-practices">(git)</a>
+        </li>
+        <li>The 12 Factor App
+        <a  href="https://12factor.net/">(git)</a>
+        </li>
+        <li>React And Libraries (2021)
+        <a  href="#">(git)</a>
+        </li>
+        <li><a href="#">Node.js High Performance (2015)</a></li>
+        <li>
+        Nodejs Best practice
+        <a 
+          href="https://github.com/goldbergyoni/nodebestpractices#5-going-to-production-practices"
+        >(git)
+        </a></li>              
+      </ul>
+    </li>
+     <a href="#getting-started">Articles</a>
+      <ul>
+        <li>
+        <a  href="https://medium.com/@jbradyaudio/streamline-a-super-efficient-branching-and-ci-strategy-ffa864aa99d4">Streamline: A super-efficient branching and CI strategy</a>
+        </li>                  
       </ul>
     </li>
     
